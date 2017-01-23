@@ -1,0 +1,25 @@
+{
+  "name": "open-web-app",
+  "version": "1.0.0",
+  "description": "A simple open web app that can be integrated into openMRS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-efortune/openWebApp.git"
+  },
+  "keywords": [
+    "open",
+    "web",
+    "app",
+    "openMRS"
+  ],
+  "author": "Fortune Ekeruo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-efortune/openWebApp/issues"
+  },
+  "homepage": "https://github.com/andela-efortune/openWebApp#readme"
+}
